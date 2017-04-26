@@ -1,2 +1,1 @@
 LocalRepo1/File.txt 
-asdf
